@@ -1,5 +1,6 @@
 // Written by Dylan
 package __CarRentalApp;
+
 import java.util.Random;
 
 public class Car {
