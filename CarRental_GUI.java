@@ -1,6 +1,6 @@
+// Written by Hersh, Dylan, and Chris
 package __CarRentalApp;
 import java.util.ArrayList;
-
 import javafx.application.Application;
 import javafx.stage.Stage;
 import javafx.scene.Scene;
