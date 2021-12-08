@@ -1,5 +1,6 @@
 // Written by Hersh 
 package __CarRentalApp;
+
 abstract class Account {
 	String accountNumber;
 	Customer customer;
