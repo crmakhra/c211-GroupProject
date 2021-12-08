@@ -1,5 +1,5 @@
+// Written by Chris
 package __CarRentalApp;
-
 public class Customer {
 	String name;
 	String accountType; // "Bronze", "Silver", or "Gold"
