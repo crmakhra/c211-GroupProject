@@ -1,4 +1,4 @@
-// Written by Hersh, Dylan, and Chris
+// Written by Hersh and Dylan
 package __CarRentalApp;
 
 import java.util.ArrayList;
